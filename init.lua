@@ -35,5 +35,3 @@ require "nvchad.autocmds"
 vim.schedule(function()
   require "mappings"
 end)
-
-vim.wo.relativenumber = true
