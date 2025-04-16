@@ -35,8 +35,3 @@ require "nvchad.autocmds"
 vim.schedule(function()
   require "mappings"
 end)
-
-require'lspconfig'.pyright.setup{}
-require'lspconfig'.ts_ls.setup{}
-
-vim.wo.relativenumber = true
