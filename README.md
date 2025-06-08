@@ -1,5 +1,5 @@
 # Pre-requisites:
-- Neovim 0.10
+- Neovim 0.11
 - Nerd Font as your terminal font (make sure the font doesn't end with Mono)
 - ripgrep (for searching with telescope)
 - delete old neovim folders
